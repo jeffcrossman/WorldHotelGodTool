@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06C0355B-A65C-46C0-BD2A-A68FF4F1AFCA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HotelGodTool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>476E39FB-AE92-411F-B7D0-530B7D11EA1D</key>
+		<string>https://github.com/jeffcrossman/Hotel-God-Tool.git</string>
+		<key>624DCFEF-8CB9-475F-9BD0-A49A36845932</key>
+		<string>https://github.com/jeffcrossman/MPM-Fluid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HotelGodTool.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>476E39FB-AE92-411F-B7D0-530B7D11EA1D</key>
+		<string>../..</string>
+		<key>624DCFEF-8CB9-475F-9BD0-A49A36845932</key>
+		<string>../../../../OpenFrameworks/of_v0.8.0_osx_release/addons/ofxMPMFluid</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jeffcrossman/Hotel-God-Tool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>476E39FB-AE92-411F-B7D0-530B7D11EA1D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>476E39FB-AE92-411F-B7D0-530B7D11EA1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HotelGodTool_bak</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>624DCFEF-8CB9-475F-9BD0-A49A36845932</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMPMFluid</string>
+		</dict>
+	</array>
+</dict>
+</plist>
